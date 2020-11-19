@@ -1,0 +1,11 @@
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+@import "_global";
+@import "_font";
+@import "_navbar";
+@import "pages/home";
+@import "pages/details";
+@import "pages/dashboard";
+@import "components/products";
+@import "components/edit";
+@import "components/breadcrumbs";
+@import "transitions/slide-fide";
